@@ -1,9 +1,11 @@
-# Class11 : Uipath Studio Components  
+# Class11 : Build first bot using Uipath studio 
 
 ## Outcomes
 
-- The User Interface 
-- Configuring Studio Settings
-- Modern Design Experience
-- Dependencies
-- TYPES OF WORKFLOWS
+- Build Bot To Move Files from folder to another folder
+- step Into , step over , step out
+- debug , run , run file
+  
+## Resources
+
+[Uipath Documentation](https://docs.uipath.com/)
