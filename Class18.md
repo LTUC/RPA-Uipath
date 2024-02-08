@@ -4,6 +4,11 @@
 
 - Robot02_RealState
 - Built In functions (".Split" , ".ToUpper")
+- UiExplorer
+- Select Item Activity
+- Check/Uncheck Activity
+- Input Mode Order
+- Selectors Order
 
 
 # Problem Domain:
