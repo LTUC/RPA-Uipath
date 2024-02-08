@@ -3,6 +3,7 @@
 
 ## Outcomes
 
+- Complete Robot01_ClothingConsultant
 - Flow Switch Activity
 
 ## Resources
