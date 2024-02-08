@@ -1,8 +1,8 @@
-# Class30 : Email Automation Robot 
+# Class30 : Email Automation Robot Part01
 
 ## Outcomes
 
-- Email Automation Robot
+- Email Automation Robot Part01
 - Mark Email As Read/Unread
 - Forward Email
 - Delete Email
