@@ -1,4 +1,4 @@
-# Class02 : For Each File In Folder  
+# Class26 : For Each File In Folder  
 
 ## Outcomes
 
