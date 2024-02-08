@@ -1,4 +1,4 @@
-# Class05 : Notepad Automation  
+# Class05 : Weather Automation
 
 ## Outcomes
 
