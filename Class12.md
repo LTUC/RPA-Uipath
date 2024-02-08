@@ -1,10 +1,12 @@
-# Class12 : Robot to move files from folder to another folder  
+# Class12 : Important Concepts and features in uipath   
 
 ## Outcomes
 
-- Build Bot To Move Files from folder to  another folder
-- step Into , step over , step out
-- debug , run , run file 
+- Arguments and Invoke workeFlow
+- Remove Unused 
+- Analyze File 
+- Comment activity
+- Disable Activity option
 
 ## Resources
 
