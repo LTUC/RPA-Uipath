@@ -1,4 +1,4 @@
-# Class01 : Notepad Automation  
+# Class02 : Notepad Automation  
 
 ## Outcomes
 - Use Application / Browser Activity
