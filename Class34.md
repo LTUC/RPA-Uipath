@@ -3,7 +3,7 @@
 ## Outcomes
 
 - What is Regex ?
-- How to find a specific word in atext using Find Matching Patterns activity in uipath.
+- How to find a specific word in text using Find Matching Patterns activity in uipath.
 
 
 ## Resources
