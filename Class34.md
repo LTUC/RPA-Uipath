@@ -1,13 +1,13 @@
-# Class34 : Regular Expressions  
+# Class34 : Regular Expressions Activities & OCR 
 
 ## Outcomes
 
-- What is Regex ?
-- How to find a specific word in text using Find Matching Patterns activity in uipath.
-
+- What "Is Text Matching" activity?
+- What "Replace Text Matching" activity?
+- What Is OCR?
+- What Tesseract & Get Text OCR?
 
 ## Resources
 
 - [Uipath Documentation](https://docs.uipath.com/)
-- [Regexr](https://regexr.com/)
-- [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
+
