@@ -1,9 +1,13 @@
-# Class34 : Regular Expression  
+# Class34 : Regular Expressions  
 
 ## Outcomes
 
-- What is Regex?
+- What is Regex ?
+- How to find a specific word in text using Find Matching Patterns activity in uipath.
+
 
 ## Resources
 
-[Regex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
+- [Uipath Documentation](https://docs.uipath.com/)
+- [Regexr](https://regexr.com/)
+- [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
