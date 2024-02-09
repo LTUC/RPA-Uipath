@@ -1,4 +1,4 @@
-# Class34 : Regular Expressions  
+# Class33 : Regular Expressions  
 
 ## Outcomes
 
